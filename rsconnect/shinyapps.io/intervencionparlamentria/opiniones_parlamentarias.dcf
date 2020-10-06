@@ -1,0 +1,12 @@
+name: opiniones_parlamentarias
+title: opiniones_parlamentarias
+username:
+account: intervencionparlamentria
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2946392
+bundleId: 3704601
+url: https://intervencionparlamentria.shinyapps.io/opiniones_parlamentarias/
+when: 1601909857.00992
+asMultiple: FALSE
+asStatic: FALSE
